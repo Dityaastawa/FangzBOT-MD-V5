@@ -48,7 +48,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 🐈 *Github:* ${sgh}
 🥏 *Whatsapp* wa.me/${nomorown}
 🌐 *Discord:* Soon
-🌏 *Website:* https://fangzbot.websites.co.in/
+🌏 *Website:* https://dityaastawa.github.io/
 🎶 *Tiktok:* nggak punya
 
 `
