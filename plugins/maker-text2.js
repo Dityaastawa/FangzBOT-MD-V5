@@ -23,7 +23,7 @@ ${htki} *HALLOWEEN* ${htka}
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Website', url: 'https://fangzbot.websites.co.in/'}},
+    {index: 1, urlButton: {displayText: 'Website', url: 'https://dityaastawa.github.io/'}},
     {index: 3, urlButton: {displayText: 'Official Group', url: sgc}},
     {index: 4, quickReplyButton: {displayText: 'Mkasih', id: 'Ok'}},
 ]
