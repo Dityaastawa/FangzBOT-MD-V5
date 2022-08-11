@@ -5,9 +5,9 @@ let text = `${htki} PULSA ${htka}
 
 💌 *Pembayaran*
 💳 Via: Pulsa Smartfren 
-📞 Nomor: 088215689772
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+📞 Nomor: nggak ada
+👤 A/n: -
+📦 Mitra: -
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*

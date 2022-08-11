@@ -5,9 +5,9 @@ let text = `${htki} PULSA ${htka}
 
 💌 *Pembayaran*
 💳 Via: Pulsa Tri3
-📞 Nomor: 0895394988123
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+📞 Nomor: 085792429140
+👤 A/n: Ditya
+📦 Mitra: Ditya BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*

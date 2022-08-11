@@ -5,9 +5,9 @@ HayðŸ‘‹, ingin melanjutkan pembayaran?
 
 💌 *Pembayaran*
 💳 Via: Dana
-📞 Nomor: 088215689772
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+📞 Nomor: 085792429140
+👤 A/n: Ditya Store
+📦 Mitra: Ditya botz
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
@@ -27,7 +27,7 @@ Pastikan saldo kamu mencukupi untuk bertransaksi!
 ❗KLIK *SUDAH BAYAR* JIKA SUDAH MEMBAYAR!
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'QRIS', url: 'https://telegra.ph/file/ff71853efeb006d635a90.jpg'}},
+    {index: 1, urlButton: {displayText: 'QRIS', url: 'https://telegra.ph/file/d853a7616436d36922b9c.jpg'}},
     {index: 4, quickReplyButton: {displayText: 'Sudah membayar', id: '.sudahbayar'}},
 ]
 let tm = {
